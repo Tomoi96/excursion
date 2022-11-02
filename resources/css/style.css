@@ -10,7 +10,12 @@ h1 {
     font-weight: normal;
 }
 
-a {
+p {
+    font-size: 21px;
+    color: grey;
+}
+
+.download {
     color: aquamarine;
     font-size: 16px;
 }
@@ -22,6 +27,9 @@ h2 {
 
 #logo {
     color: gray;
-    float: right;
     padding-right: 10px;
+}
+
+#footer {
+    text-align: right;
 }
